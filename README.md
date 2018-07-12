@@ -5,6 +5,8 @@ The Docker setup for PHP applications using PHP7-FPM and Nginx
 * Create a record in your `hosts` file to point `dev.local` to your environment
 
 * Run `docker-compose up`
+OR
+* Run `docker-compose up -d`
 
 * Navigate to dev.local:8080 in a browser
 
